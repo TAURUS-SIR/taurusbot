@@ -1,115 +1,111 @@
-
 <div align="center">
-  <img border-radius: 15px src="TAURUS-SIR.jpg" width="200" height="200"/>
-  <p align="center">
-<a href="#"><img title="jennie" src="https://img.shields.io/badge/jennie-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+taurusbot+WA+Bot+repo;Created+by+MUHAMMED;This+is+a+userbot+private+and+public+bot;With+more+features)](https://git.io/typing-svg)
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/taurus-sir/count.svg)
+
+ </a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-mkz"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-mkz/jennie?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<img src=TAURUS-SIR.jpg>
+</p>
+  <p align="center">
+<a href="https://github.com/taurus-sir"><img title="Author" src="https://img.shields.io/badge/Author- MUHAMMED?color=blue&style=for-the- ubadge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-mkz">vishnu-mkz</a> to make it public
+Project created by <a href="https://github.com/taurus-sir">taurusbot</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
+## Setup
+<div align="center"> 
+
+
+## PLEASE SUBSCRIBE MY EDITING CHANNEL
+
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA)
+
+
+  ### Simple Method
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/taurus-sir/taurusbot) 
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+  
+### The Hard Method
+```js
+GET QR
+$ apt install git
+$ apt install nodejs --fix-missing
+$ git clone https://github.com/taurus-sir/taurusbot
+$ cd taurusbot
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node julie.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/taurus-sir/taurusbot
+$ cd taurusbot
+$ npm i
+$ node julie.js
+```
+
 ----
 
   <p align="center">
-  <a href="httsp://github.com/vishnu-mkz/jennie">
-    <img src="https://img.shields.io/github/repo-size/vishnu-mkz/jennie?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/TAURUS-SIR/taurusbot">
+    
+<a href="https://github.com/TAURUS-SIR/followers">
+<img src="https://img.shields.io/github/repo-size/taurus-sir/taurusbot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/vishnu-mkz/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-mkz?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/vishnu-mkz/jennie/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-mkz/jennie?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/vishnu-mkz/jennie/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-mkz/jennie?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/vishnu-mkz/jennie/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-mkz/jennie?label=Watchers&color=f7df1e&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
+<a href="https://github.com/TAURUS-SIR/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/TAURUS-SIR?color=blue&style=flat-square"></a>
+<a href="https://github.com/TAURUS-SIR/taurusbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/taurus-sir/taurusbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/TAURUS-SIR/taurusbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/taurus-sir/taurusbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/TAURUS-SIR/taurusbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/taurus-sir/taurusbot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
-
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
-  
-
-<div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-mkz&show_icons=true&theme=nightowl" alt="vishnu-mkz" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-mkz&theme=nightowl" alt="vishnu-mkz" /></p>
-</details> </div>
-
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EkMZJBMONOi5EDOISRE56E)
+  <div align="center">
        
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taurus-sir&repo=taurusbot&theme=nightowl)](https://github.com/taurus-sir/taurusbot)
+  </div>
     
-## Setup
-<div align="center">
+### ⚠ Warning ⚠
 
-  ### Simple Method
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+```
+By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
+taurusbot or we are not responsible for your account, 
+This bot is intended for the purpose of having fun with some fun commands 
+and group management with some helpfull commands.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnu-mkz/jennie.git)
-     </div>
-<br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
-  
-### The Hard Method
-```js
-GET QR
-$ apt update
-$ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/vishnu-mkz/jennie
-$ cd jennie
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node qr.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/vishnu-mkz/jennie
-$ cd jennie
-$ chmod +x *
-$ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
+If  you ended up spamming groups, getting reported left and right, 
+and you ended up in being fight with WhatsApp
+and at the end WhatsApp Team deleted your account. DON'T BLAME US.
 
-
-### ⚠️ Warning! 
+No personal support will be provided / We won't spoon feed you. 
+If you need help
+you can contact 👇🏻👇🏻 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
+**[![TAURUS SIR](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919961050829?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![vishnu-mkz](https://github.com/vishnu-mkz.png?size=100)](https://github.com/vishnu-mkz) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
-----|----|----
-[vishnu-mkz](https://github.com/vishnu-mkz)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TAURUS SIR](https://github.com/taurus-sir.png?size=100)](https://github.com/taurus-sir) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+----|----|----|----
+[farhan-dqz](https://github.com/farhan-dqz) | [TAURUS SIR](https://github.com/taurus-sir) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
 
