@@ -39,21 +39,26 @@ Project created by <a href="https://github.com/taurus-sir">taurusbot</a> to make
 ### The Hard Method
 ```js
 GET QR
-$ apt install git
+$ apt update
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/taurus-sir/taurusbot
+$ pkg install git
+$ git clone https://github.com/TAURUS-SIR/taurusbot
 $ cd taurusbot
+$ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node qr.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/taurus-sir/taurusbot
+$ git clone https://github.com/TAURUS-SIR/taurusbot
 $ cd taurusbot
+$ chmod +x *
 $ npm i
-$ node julie.js
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
 ```
 
 ----
