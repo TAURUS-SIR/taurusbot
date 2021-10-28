@@ -106,9 +106,9 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TAURUS SIR](https://github.com/taurus-sir.png?size=100)](https://github.com/taurus-sir) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![TAURUS-SIR-BOT](https://github.com/TAURUS-SIR-BOT.png?size=100)](https://github.com/TAURUS-SIR-BOT) | [![TAURUS SIR](https://github.com/taurus-sir.png?size=100)](https://github.com/taurus-sir) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [TAURUS SIR](https://github.com/taurus-sir) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[TAURUS-SIR-BOT](https://github.com/TAURUS-SIR-BOT) | [TAURUS SIR](https://github.com/taurus-sir) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
