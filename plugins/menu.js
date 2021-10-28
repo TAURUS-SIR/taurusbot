@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "TAURUS-SIR.jpg";
+    r_text[0] = "https://www.linkpicture.com/q/TAURUS-SIR.jpg";
     
     
     var i = Math.floor(1*Math.random())
