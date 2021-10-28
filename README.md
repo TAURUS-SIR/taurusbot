@@ -80,7 +80,9 @@ Click WA logo to Join Support Group 👇
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taurus-sir&repo=taurusbot&theme=nightowl)](https://github.com/taurus-sir/taurusbot)
   </div>
-    
+* [`TAURUS-SIR`]
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game"
+
 ### ⚠ Warning ⚠
 
 ```
