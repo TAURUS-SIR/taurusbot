@@ -2,7 +2,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+taurusbot+WA+Bot+repo;Created+by+MUHAMMED;This+is+a+userbot+private+and+public+bot;With+more+features)](https://git.io/typing-svg)
 #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/taurus-sir/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/taurus-sir/count.svg). 
 
  </a>
 </p>
@@ -80,7 +80,8 @@ Click WA logo to Join Support Group 👇
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taurus-sir&repo=taurusbot&theme=nightowl)](https://github.com/taurus-sir/taurusbot)
   </div>
-* [`TAURUS-SIR`]
+ 
+<img src=TAURUS FF.png>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game"
 
 ### ⚠ Warning ⚠
