@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="Tzuyu.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="TAURUS-SIR.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="jennie" src="https://img.shields.io/badge/jennie-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
