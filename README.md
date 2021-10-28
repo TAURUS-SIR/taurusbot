@@ -1,7 +1,7 @@
 <div align="center">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+taurusbot+WA+Bot+repo;Created+by+MUHAMMED;This+is+a+userbot+private+and+public+bot;With+more+features)](https://git.io/typing-svg)
-#### TOTAL REPO VIEWS📍
+#### TOTAL REPO VIEWS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="15px">
 ![Visitor Count](https://profile-counter.glitch.me/taurus-sir/count.svg). 
 
  </a>
