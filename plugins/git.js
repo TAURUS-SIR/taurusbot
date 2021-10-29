@@ -19,11 +19,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Muhammed (taurus) *
-*owner number wa.me/919961050829*
-*bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/TAURUS-SIR/taurusbot*
-*audio commads    https://github.com/TAURUS-SIR/taurusbot/tree/master/uploads*
-*sticker commads  https://github.com/TAURUS-SIR/taurusbot/tree/master/uploads*
+*owner number : wa.me/919961050829*
+*bot setting video will come soon: https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA .*
+*githublink       https://github.com/TAURUS-SIR/taurusbot .*
+*audio commads    https://github.com/TAURUS-SIR/taurusbot/tree/master/uploads .*
+*sticker commads  https://github.com/TAURUS-SIR/taurusbot/tree/master/uploads .*
 `}) 
 
 }));
