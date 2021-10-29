@@ -149,7 +149,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(banned !== undefined) return
     if (!!message.mention && message.mention[0] == '919961050829@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/song.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
-    }
+        }
 const array = ['Pikachu','Msd','Vijay','Rashmika','song','Sry','Line','Aarulle','achodaa','ayin','Aysheri','Ayye','Ayyo','broken','bye','chattho','cute','Da','Eee','Eee2','engane und','Entha','Enthada','Girls','Good morning','Good night','Hi','Hy','TAURUS-SIR-BOT','ithokke enth','ivan','Kurippe','Kurumb','Love','Mm','Xxxtentacion','naanam','nadakkatte','Ok','paavam','Pattumo','pikachu','Pm','poda','Pova','Save','Sed','setth','sho','Shoo','Smile','tag','Udayipp','umma','Vaa','Vannu','yo','ys','kodeeshwaran']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
