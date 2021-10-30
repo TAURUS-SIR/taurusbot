@@ -1,5 +1,5 @@
-/* Copyright (C) 2021 MUHAMMED 
- MUHAMMED 
+/* Copyright (C) 2021 AMEER SUHAIL
+ AMEER SUHAIL
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 Pikachu
@@ -50,8 +50,8 @@ else if (Config.WORKTYPE == 'public') {
         }
     }));
 }
-/* Copyright (C) 2021 MUHAMMED 
- MUHAMMED 
+/* Copyright (C) 2021 AMEER SUHAIL 
+ AMEER SUHAIL
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 Pikachu
